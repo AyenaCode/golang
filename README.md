@@ -1,1 +1,1 @@
-### This is for pratice my learning in GO
+### This is for practice my Go language skills
